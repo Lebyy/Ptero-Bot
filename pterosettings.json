@@ -1,0 +1,21 @@
+{
+  "token": "enter token here",
+  "prefix": "prefix!",
+  "panellink": "pterodactyl panel link, errors if it is not valid",
+  "color": "RANDOM",
+  "statusname": "with the Pterodactyl Panel",
+  "statustype": "PLAYING",
+  "whitelist": ["enter user id", "another user id", "etc"],
+  "cputype": 0,
+  "checkpower": 1,
+  "checksend": 1,
+  "sharedapi": null,
+  "sharedfocus": null,
+  "disablelinkscmd": 0,
+  "footername": "",
+  "footerimage": "",
+  "zerodiskmsg": "∞ MB",
+  "zerorammsg": "∞ MB",
+  "disableembedlinks": 0,
+  "beforeidmsg": "#"
+}
